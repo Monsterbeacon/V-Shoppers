@@ -2,4 +2,4 @@ In an era where e-commerce demands are soaring, the quest for an immersive and e
 
 
 This Paper has been accepted on ICICT 2024(https://icict.buet.ac.bd/). 
-Camera-Ready Paper.pdf is the final paper.
+Camera-Ready Paper.pdf is the final paper. The video demonstration of the working project is available at https://youtu.be/p7X6x1sk0vI
